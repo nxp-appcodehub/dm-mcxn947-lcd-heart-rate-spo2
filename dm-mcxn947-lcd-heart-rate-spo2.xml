@@ -1,0 +1,27 @@
+<data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" id="dm-mcxn947-lcd-heart-rate-spo2" type="demo" format="projectfile" versionSchema="1.0.0" name="mcxn947-lcd-heart-rate-spo2">
+    <display_title>
+       vital signal monitor
+    </display_title>
+    <overview>
+        <![CDATA[The project is vital sign monitor that use a pulse-oximeter sensor to obtain the values and uses an LCD to show the values and the graphics of the measurements.]]>
+    </overview>
+    <toolchains>
+        <toolchain name="mcux"></toolchain>
+    </toolchains>
+    <families>
+        <family name="mcx"></family>
+    </families>
+    <nxp_compatible_hw>
+        <hw id="FRDM-MCXN947"></hw>
+    </nxp_compatible_hw>
+    <peripherals>
+        <peripheral name="display"></peripheral>
+        <peripheral name="dma"></peripheral>
+        <peripheral name="i2c"></peripheral>
+    </peripherals>
+    <categories>
+        <category name="hmi"></category>
+        <category name="graphics"></category>
+        <category name="sensor"></category>
+    </categories>
+</data:item>

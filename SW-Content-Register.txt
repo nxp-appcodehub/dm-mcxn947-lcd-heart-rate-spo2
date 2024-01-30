@@ -1,0 +1,16 @@
+NXP Software Content Register
+Release Name: 			dm-mcxn947-lcd-heart-rate-spo2
+Release Version: 		1.0
+Outgoing License: 		LA_OPT_NXP_Software_License v53 December 2023 - Additional Distribution License granted, license in Section 2.3 applies
+License in File: 		license.txt
+Description: 			LVGL Demo, includes the opensource library LVGL with the client lcd and the NXP lcd (Low Cost).
+Release location: 	    https://github.com/nxp-appcodehub/dm-mcxn947-lcd-heart-rate-spo2
+Origin:				NXP (BSD-3-Clause)
+				NXP (Proprietary)
+				ARM CMSIS (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/releases/tag/5.8.0
+				NXP CMSIS-Drivers (Apache 2.0)                                                                          
+				LVGL (MIT) - https://github.com/lvgl/lvgl     
+				lodepng (zlib) - https://github.com/ldandeve/lodepng         
+				Monserrat Font (OFT) - https://github.com/JulietaUla/Montserrat
+				DejaVu fonts (FREE) - https://dejavu-fonts.github.io/
+                                                                                                                                                                                                                                                                                  
